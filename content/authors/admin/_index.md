@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am currently a PhD candidate in Dr. Kathleen McDermott's Memory & Cognition Lab at Washington University in St. Louis. I received his B.Sc. in Psychology and Statistical Methods from Truman State University in 2015, and my A.M. in Psychological & Brain Sciences at Washington University in St. Louis. I has also spent time in cardiovascular and neuroscience research labs at the University of Michigan and the University of Vermont.
+bio: Christopher Zerr is currently a PhD student in Psychological & Brain Sciences at Washington University in St. Louis.
 
 interests:
 - Learning and Memory
@@ -80,6 +80,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am currently a PhD candidate in Dr. Kathleen McDermott's Memory & Cognition Lab at Washington University in St. Louis. I received his B.Sc. in Psychology and Statistical Methods from Truman State University in 2015, and my A.M. in Psychological & Brain Sciences at Washington University in St. Louis. I has also spent time in cardiovascular and neuroscience research labs at the University of Michigan and the University of Vermont.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My main interests are in examining individual differences in long-term memory, with a current focus on the relation between how quickly people learn information and how well they remember it over time. I participate in the Cognitive, Computational, and Systems Neuroscience (CCSN) pathway and was a National Science Foundation GRFP recipient.
