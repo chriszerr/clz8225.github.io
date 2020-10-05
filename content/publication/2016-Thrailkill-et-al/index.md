@@ -21,40 +21,10 @@ publication_types: ["2"]
 publication: "*Journal of Experimental Psychology: Animal Learning and Cognition*"
 publication_short: "*Journal of Experimental Psychology: Animal Learning and Cognition*"
 
-abstract: Recent studies suggest a significant role for context in controlling the acquisition and extinction of simple operant responding. The present experiments examined the contextual control of a heterogeneous
-behavior chain. Rats first learned a chain in which a discriminative stimulus set the occasion for a
-procurement response (e.g., pulling a chain), which led to a second discriminative stimulus that
-occasion-set a consumption response (e.g., pressing a lever) that produced a food-pellet reinforcer.
-Experiment 1 showed that, after separate extinction of procurement and consumption, each response
-increased when it was returned to the acquisition context (ABA renewal) or was tested in a new context
-(AAB renewal). In addition, procurement responding, but not consumption responding, was decreased by
-changing the context after acquisition. Experiment 2 demonstrated ABA and AAB renewal of procure-
-ment and consumption following extinction of the whole chain. This time, the context-switch after
-acquisition weakened both procurement and consumption. Experiment 3 found that return to the context
-of the behavior chain renewed a consumption response that had been extinguished separately. Finally, in
-Experiment 4, rats learned 2 different discriminated heterogeneous chains; consumption extinguished
-outside its chain was only renewed on return to a chain when it was preceded by its associated
-procurement response. The results suggest a role for context in the extinction of chained behavior. They
-also support the view that procurement is influenced by the physical context and that consumption is
-controlled primarily by the response that precedes it in the chain.
+abstract: Recent studies suggest a significant role for context in controlling the acquisition and extinction of simple operant responding. The present experiments examined the contextual control of a heterogeneous behavior chain. Rats first learned a chain in which a discriminative stimulus set the occasion for a procurement response (e.g., pulling a chain), which led to a second discriminative stimulus that occasion-set a consumption response (e.g., pressing a lever) that produced a food-pellet reinforcer. Experiment 1 showed that, after separate extinction of procurement and consumption, each response increased when it was returned to the acquisition context (ABA renewal) or was tested in a new context (AAB renewal). In addition, procurement responding, but not consumption responding, was decreased by changing the context after acquisition. Experiment 2 demonstrated ABA and AAB renewal of procurement and consumption following extinction of the whole chain. This time, the context-switch after acquisition weakened both procurement and consumption. Experiment 3 found that return to the context of the behavior chain renewed a consumption response that had been extinguished separately. Finally, in Experiment 4, rats learned 2 different discriminated heterogeneous chains; consumption extinguished outside its chain was only renewed on return to a chain when it was preceded by its associated procurement response. The results suggest a role for context in the extinction of chained behavior. They also support the view that procurement is influenced by the physical context and that consumption is controlled primarily by the response that precedes it in the chain.
 
 # Summary. An optional shortened abstract.
-summary: Recent studies suggest a significant role for context in controlling the acquisition and extinction of simple operant responding. The present experiments examined the contextual control of a heterogeneous
-behavior chain. Rats first learned a chain in which a discriminative stimulus set the occasion for a
-procurement response (e.g., pulling a chain), which led to a second discriminative stimulus that
-occasion-set a consumption response (e.g., pressing a lever) that produced a food-pellet reinforcer.
-Experiment 1 showed that, after separate extinction of procurement and consumption, each response
-increased when it was returned to the acquisition context (ABA renewal) or was tested in a new context
-(AAB renewal). In addition, procurement responding, but not consumption responding, was decreased by
-changing the context after acquisition. Experiment 2 demonstrated ABA and AAB renewal of procure-
-ment and consumption following extinction of the whole chain. This time, the context-switch after
-acquisition weakened both procurement and consumption. Experiment 3 found that return to the context
-of the behavior chain renewed a consumption response that had been extinguished separately. Finally, in
-Experiment 4, rats learned 2 different discriminated heterogeneous chains; consumption extinguished
-outside its chain was only renewed on return to a chain when it was preceded by its associated
-procurement response. The results suggest a role for context in the extinction of chained behavior. They
-also support the view that procurement is influenced by the physical context and that consumption is
-controlled primarily by the response that precedes it in the chain.
+# summary:
 
 tags:
 - Learning
