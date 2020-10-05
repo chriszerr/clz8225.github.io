@@ -66,6 +66,9 @@ social:
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0001-9196-5075
+- icon: osf
+  icon_pack: ai
+  link: https://osf.io/9f6tv/
 - icon: cv
   icon_pack: ai
   link: files/cv.pdf
