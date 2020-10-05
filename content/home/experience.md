@@ -19,9 +19,9 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Doctoral Student"
-  company = "Washington University in St. Louis"
+  company = "Psychological & Brain Sciences"
   company_url = "https://psych.wustl.edu/"
-  location = "St. Louis, Missouri"
+  location = "Washington University in St. Louis"
   date_start = "2015-06-01"
   date_end = "2021-05-01"
   description = ""
