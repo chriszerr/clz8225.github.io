@@ -57,6 +57,9 @@ social:
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Christopher_Zerr
+- icon: linkedin
+  icon_pack: ai
+  link: https://www.linkedin.com/in/christopher-zerr-43b7051b5/ 
 - icon: github
   icon_pack: fab
   link: https://github.com/clz8225
@@ -71,7 +74,7 @@ social:
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
