@@ -58,7 +58,7 @@ social:
   icon_pack: ai
   link: https://www.researchgate.net/profile/Christopher_Zerr
 - icon: linkedin
-  icon_pack: ai
+  icon_pack: fab
   link: https://www.linkedin.com/in/christopher-zerr-43b7051b5/ 
 - icon: github
   icon_pack: fab
