@@ -67,5 +67,5 @@ projects: []
 slides: ""
 ---
 
-Supplementary material can be [found here](http://journals.sagepub.com/doi/ suppl/10.1177/0956797618772540).
+Supplementary material can be [found here](http://journals.sagepub.com/doi/suppl/10.1177/0956797618772540).
 
