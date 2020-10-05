@@ -34,11 +34,11 @@ tags:
 featured: true
 
 links:
-- name: Custom Link
+- name: ''
 url: ''
 url_pdf: "https://pages.wustl.edu/system/files/memory/managed/zerr-et-al-2018.pdf"
 url_code: ''
-url_dataset: "http://osf.io/rf28u"
+url_dataset: "http://osf.io/wrjd6"
 url_poster: ''
 url_project: ''
 url_slides: ''
