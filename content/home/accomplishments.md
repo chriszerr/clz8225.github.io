@@ -19,33 +19,33 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  organization = "Washington University in St. Louis"
+  organization_url = "https://www.wustl.edu"
+  title = "Quantitative Data Analysis"
   url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
-  date_end = ""
-  description = ""
-
-[[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
+  certificate_url = "hhttps://psych.wustl.edu/graduate-certificate"
+  date_start = "2015-08-01"
+  date_end = "2019-12-01"
   description = "Formulated informed blockchain models, hypotheses, and use cases."
   
 [[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  organization = "Washington University in St. Louis"
+  organization_url = "https://www.wustl.edu"
+  title = "Cognitive, Computational and Systems Neuroscience (CCSN) Pathway"
   url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
+  certificate_url = "hhttp://dbbs.wustl.edu/curstudents/SpecialEmphasisPathways/Pages/CCSN.aspx"
+  date_start = "2015-08-01"
+  date_end = ""
+  description = """The Cognitive, Computational and Systems Neuroscience (CCSN) Pathway is a specialized curriculum available to students pursuing a PhD in Neuroscience, Psychology, Biomedical Engineering, or other brain-related discipline at Washington University. The curriculum is challenging and is designed to help students tackle problems using an interdisciplinary approach."""
+  
+[[item]]
+  organization = "National Institute of Mental Health"
+  organization_url = "https://www.nimh.nih.gov/index.shtml"
+  title = "AFNI & SUMA Workshop"
+  url = ""
+  certificate_url = "https://afni.nimh.nih.gov/"
+  date_start = "2017-01-09"
+  date_end = "2017-01-13"
+  description = """Training workshop for functional neuroimaging analysis software, including AFNI (Analysis of Functional NeuroImages) and SUMA (SUrface models and MApping volumetric data)."""
 
 +++
