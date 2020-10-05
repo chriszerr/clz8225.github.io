@@ -35,7 +35,7 @@ featured: true
 
 links:
 #- name: Custom Link
-url: 'https://journals.sagepub.com/doi/abs/10.1177/0956797618772540'
+url: 'http://journals.sagepub.com/doi/abs/10.1177/0956797618772540'
 url_pdf: 'https://pages.wustl.edu/system/files/memory/managed/zerr-et-al-2018.pdf'
 url_code: ''
 url_dataset: 'https://osf.io/rf28u'
