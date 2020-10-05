@@ -31,8 +31,8 @@ featured: false
 
 links:
 #- name: ''
-url: 'https://www.frontiersin.org/articles/10.3389/fpsyg.2014.01040/full'
-url_pdf: "https://www.frontiersin.org/articles/10.3389/fpsyg.2014.01040/pdf"
+url: 'http://www.frontiersin.org/articles/10.3389/fpsyg.2014.01040/full'
+url_pdf: "http://www.frontiersin.org/articles/10.3389/fpsyg.2014.01040/pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''
