@@ -1,5 +1,5 @@
 ---
-title: "An example conference paper"
+title: "Learning efficiency: Identifying individual differences in learning rate and retention in healthy adults"
 authors:
 - admin
 - Jeffrey J. Berg
@@ -8,7 +8,7 @@ authors:
 - Neil K. Savalia
 - Kathleen B. McDermott
 date: "2018-06-28T00:00:00Z"
-doi: ""
+doi: "10.1177/0956797618772540"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2018-01-01T00:00:00Z"
