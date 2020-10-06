@@ -24,6 +24,15 @@ date_format = "Jan 2006"
   location = "Washington University in St. Louis"
   date_start = "2015-06-01"
   date_end = "2021-05-01"
+  description = "PI: Kathleen B. McDermott, PhD"
+  
+[[experience]]
+  title = "Research Fellow"
+  company = "Kavli Summer Institute in Cognitive Neuroscience"
+  company_url = "https://sicn.cmb.ucdavis.edu/"
+  location = "University of California, Santa Barbara"
+  date_start = "2019-06-24"
+  date_end = "2019-07-06"
   description = ""
 
 [[experience]]
@@ -32,6 +41,51 @@ date_format = "Jan 2006"
   company_url = "https://case.truman.edu/"
   location = "Truman State University"
   date_start = "2012-08-01"
+  date_end = "2015-05-31"
+  description = ""
+  
+[[experience]]
+  title = "Neuroscience Research Fellow"
+  company = "Summer Neuroscience Undergraduate Research Fellowship"
+  company_url = "https://www.uvm.edu/~nbhspire/"
+  location = "University of Vermont"
+  date_start = "2014-05-01"
+  date_end = "2014-08-01"
+  description = "PI: Mark E. Bouton, PhD"
+  
+[[experience]]
+  title = "Cardiovascular Research Fellow"
+  company = "Frankel Cardiovascular Center Summer Fellowship"
+  company_url = "https://sites.google.com/site/cvcsummerfellowship/home"
+  location = "Center for Arrhythmia Research, University of Michigan"
+  date_start = "2012-05-01"
+  date_end = "2012-08-01"
+  description = "PI: José Jalife, MD"
+  
+[[experience]]
+  title = "Undergraduate Research Assistant"
+  company = "Clinical Psychosocial Laboratory"
+  company_url = "https://www.truman.edu/faculty-staff/vittengl/"
+  location = "Truman State University"
+  date_start = "2013-08-01"
+  date_end = "2015-05-31"
+  description = "PI: Jeffrey R. Vittengl, PhD"
+
+[[experience]]
+  title = "Laboratory Manager"
+  company = "Center for Applied Psychophysiology"
+  company_url = "http://fshaffer.sites.truman.edu/research-team/"
+  location = "Truman State University"
+  date_start = "2011-08-01"
+  date_end = "2015-05-31"
+  description = "PI: Fredric B. Shaffer, PhD"
+  
+[[experience]]
+  title = "Undergraduate Student (BSc)"
+  company = "Psychology, Statistical Methods"
+  company_url = "https://truman.edu/"
+  location = "Truman State University"
+  date_start = "2011-08-01"
   date_end = "2015-05-31"
   description = ""
 
