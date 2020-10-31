@@ -31,8 +31,8 @@ featured: false
 
 links:
 #- name: ''
-url: 'https://www.frontiersin.org/articles/10.3389/fnins.2020.594880/abstract'
-url_pdf: ''
+url: ''
+url_pdf: 'https://www.frontiersin.org/articles/10.3389/fnins.2020.594880/abstract'
 url_code: ''
 url_dataset: ''
 url_poster: ''
