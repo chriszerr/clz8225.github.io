@@ -5,7 +5,7 @@ authors:
 - Zachary M. Meehan
 - admin
 date: "2020-11-01T00:00:00Z"
-doi: "10.3389/fpsyg.2014.01040"
+doi: "https://doi.org/10.3389/fnins.2020.594880"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-01-01T00:00:00Z"
