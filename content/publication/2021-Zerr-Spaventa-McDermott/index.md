@@ -33,7 +33,7 @@ featured: true
 
 links:
 #- name: ''
-url: 'https://www.tandfonline.com/doi/abs/10.1080/09658211.2021.1933039?journalCode=pmem20'
+url: 'https://www.tandfonline.com/doi/abs/10.1080/09658211.2021.1933039'
 url_pdf: ""
 url_code: ''
 url_dataset: "https://osf.io/qznwk/"
@@ -46,7 +46,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: '[Zerr, Spaventa, & McDermott (2021)](https://www.tandfonline.com/doi/abs/10.1080/09658211.2021.1933039?journalCode=pmem20)'
+  caption: '[Zerr, Spaventa, & McDermott (2021)](https://www.tandfonline.com/doi/abs/10.1080/09658211.2021.1933039)'
   focal_point: ""
   preview_only: false
 
