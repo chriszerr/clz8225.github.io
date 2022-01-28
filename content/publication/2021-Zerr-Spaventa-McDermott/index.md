@@ -5,7 +5,7 @@ authors:
 - Thomas Spaventa
 - Kathleen B. McDermott
 date: "2021-05-31T00:00:00Z"
-doi: "10.1080/09658211.2021.1933039"
+doi: "https://www.tandfonline.com/doi/abs/10.1080/09658211.2021.1933039"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-05-31T00:00:00Z"
@@ -33,8 +33,8 @@ featured: true
 
 links:
 #- name: ''
-url: 'https://www.tandfonline.com/doi/abs/10.1080/09658211.2021.1933039'
-url_pdf: ""
+url: ''
+url_pdf: "https://cpb-us-w2.wpmucdn.com/sites.wustl.edu/dist/9/1627/files/2021/10/2021-Zerr-Spaventa-McDermott.pdf"
 url_code: ''
 url_dataset: "https://osf.io/qznwk/"
 url_poster: ''
