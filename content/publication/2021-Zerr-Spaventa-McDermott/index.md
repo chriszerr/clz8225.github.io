@@ -20,7 +20,7 @@ publication_types: ["2"]
 publication: "*Memory*"
 publication_short: "*Memory*"
 
-abstract: "People differ in how quickly they learn information and how long they remember it, and these two variables are correlated such that people who learn more quickly tend to retain more of the newly learned information. [Zerr and colleagues (2018)](http://journals.sagepub.com/doi/abs/10.1177/0956797618772540) termed the relation between learning rate and retention as learning efficiency, with more efficient learners having both a faster acquisition rate and better memory performance after a delay. Zerr et al. also demonstrated in separate experiments that how efficiently someone learns is stable across a range of days and years with the same kind of stimuli. The current experiments (combined *N* = 231) replicate the finding that quicker learning coincides with better retention and demonstrate that the correlation extends to multiple types of materials. We also address the generalisability of learning efficiency: A person's efficiency with learning Lithuanian-English (verbal-verbal) pairs predicts their efficiency with Chinese-English (visuospatial-verbal) and (to a lesser extent) object-location (visuospatial-visuospatial) paired associates. Finally, we examine whether quicker learners also remember material more precisely by using a continuous measure of recall accuracy with object-location pairs."
+abstract: "People differ in how quickly they learn information and how long they remember it, and these two variables are correlated such that people who learn more quickly tend to retain more of the newly learned information. Zerr and colleagues (2018) termed the relation between learning rate and retention as learning efficiency, with more efficient learners having both a faster acquisition rate and better memory performance after a delay. Zerr et al. also demonstrated in separate experiments that how efficiently someone learns is stable across a range of days and years with the same kind of stimuli. The current experiments (combined *N* = 231) replicate the finding that quicker learning coincides with better retention and demonstrate that the correlation extends to multiple types of materials. We also address the generalisability of learning efficiency: A person's efficiency with learning Lithuanian-English (verbal-verbal) pairs predicts their efficiency with Chinese-English (visuospatial-verbal) and (to a lesser extent) object-location (visuospatial-visuospatial) paired associates. Finally, we examine whether quicker learners also remember material more precisely by using a continuous measure of recall accuracy with object-location pairs."
 
 # Summary. An optional shortened abstract.
 summary:
@@ -33,10 +33,10 @@ featured: true
 
 links:
 #- name: ''
-url: 'http://www.tandfonline.com/doi/abs/10.1080/09658211.2021.1933039?journalCode=pmem20'
+url: 'https://www.tandfonline.com/doi/abs/10.1080/09658211.2021.1933039?journalCode=pmem20'
 url_pdf: ""
 url_code: ''
-url_dataset: "http://osf.io/qznwk/"
+url_dataset: "https://osf.io/qznwk/"
 url_poster: ''
 url_project: ''
 url_slides: ''
@@ -46,7 +46,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: '[Zerr, Spaventa, & McDermott (2021)](http://www.tandfonline.com/doi/abs/10.1080/09658211.2021.1933039?journalCode=pmem20)'
+  caption: '[Zerr, Spaventa, & McDermott (2021)](https://www.tandfonline.com/doi/abs/10.1080/09658211.2021.1933039?journalCode=pmem20)'
   focal_point: ""
   preview_only: false
 
