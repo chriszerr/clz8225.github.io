@@ -18,7 +18,7 @@ organizations:
   url: "https://wustl.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Christopher Zerr is currently a PhD student in Psychological & Brain Sciences at Washington University in St. Louis.
+bio: Christopher Zerr is currently a Postdoctoral Researcher in Psychological & Brain Sciences at Washington University in St. Louis.
 
 interests:
 - Learning and Memory
