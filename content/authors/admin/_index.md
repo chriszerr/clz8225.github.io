@@ -22,15 +22,15 @@ bio: Christopher Zerr is currently a PhD student in Psychological & Brain Scienc
 
 interests:
 - Learning and Memory
+- Collective Memory
 - Individual Differences
-- Cognitive Neuroscience
-- Statistics
+- Statistics / Data Visualization
 - R
-- fMRI
+- Cognitive Neuroscience / fMRI
 
 education:
   courses:
-  - course: PhD (expected) in Psychological & Brain Sciences
+  - course: PhD in Psychological & Brain Sciences
     institution: Washington University in St. Louis
     year: 2021
   - course: AM in Psychological & Brain Sciences
@@ -86,6 +86,6 @@ user_groups:
 - Visitors
 ---
 
-I am currently a PhD candidate in Dr. Kathleen McDermott's Memory & Cognition Lab at Washington University in St. Louis. I received my B.Sc. in Psychology and Statistical Methods from Truman State University in 2015, and my A.M. (Master's Degree) in Psychological & Brain Sciences from Washington University in St. Louis in 2017.
+I am currently a Postdoctoral Research Associate in Dr. Henry Roediger's memory lab at Washington University in St. Louis. I received my A.M. (Master's degree; 2017) and Ph.D. (2021) in Psychological & Brain Sciences at Washington University in St. Louis working under Dr. Kathleen McDermott in her Memory & Cognition Lab. I received my B.Sc. in Psychology and Statistical Methods from Truman State University in 2015 and also spent summers doing research at the University of Michigan and University of Vermont.
 
-My main interests are in examining individual differences in long-term memory, with a current focus on the relation between how quickly people learn information and how well they remember it over time. I participate in the Cognitive, Computational, and Systems Neuroscience (CCSN) pathway and was a National Science Foundation GRFP recipient.
+My main interests are in examining both collective memory and individual differences in long-term memory, in particular how memories are formed and how they change over time. I am also interested in the similarities (and differences) between individual and group memory and forgetting. Much of my doctoral work was focused on the relation between how quickly people learn information and how well they remember it over time, as well as how learning rate related to forgetting rate. I participated in the Cognitive, Computational, and Systems Neuroscience (CCSN) pathway and was a National Science Foundation GRFP recipient.
