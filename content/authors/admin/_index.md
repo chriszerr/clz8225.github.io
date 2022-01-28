@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Candidate in Psychological & Brain Sciences
+role: Postdoc in Psychological & Brain Sciences
 
 # Organizations/Affiliations
 organizations:
