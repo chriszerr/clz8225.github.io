@@ -62,7 +62,7 @@ social:
   link: https://www.linkedin.com/in/christopher-zerr-43b7051b5/ 
 - icon: github
   icon_pack: fab
-  link: https://github.com/clz8225
+  link: https://github.com/chriszerr
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0001-9196-5075
