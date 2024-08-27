@@ -24,6 +24,12 @@ subtitle = ""
   icon = "python"
   icon_pack = "fab"
   name = "Python"
+  description = ""  
+  
+[[feature]]
+  icon = "database"
+  icon_pack = "fas"
+  name = "SQL"
   description = ""
   
 [[feature]]
@@ -39,12 +45,11 @@ subtitle = ""
   description = ""  
   
 [[feature]]
-  icon = "database"
+  icon = "file-excel"
   icon_pack = "fas"
-  name = "SQL"
-  description = ""
+  name = "Excel"
+  description = ""  
   
-
 
 # Uncomment to use emoji icons.
 # [[feature]]
