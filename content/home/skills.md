@@ -38,6 +38,12 @@ subtitle = ""
   name = "Statistics"
   description = ""  
   
+[[feature]]
+  icon = "database"
+  icon_pack = "fas"
+  name = "SQL"
+  description = ""
+  
 
 
 # Uncomment to use emoji icons.
