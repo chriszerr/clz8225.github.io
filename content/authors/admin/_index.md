@@ -86,6 +86,8 @@ user_groups:
 - Visitors
 ---
 
-I am currently a Postdoctoral Research Associate in Dr. Henry Roediger's memory lab at Washington University in St. Louis. I received my A.M. (Master's degree; 2017) and Ph.D. (2021) in Psychological & Brain Sciences at Washington University in St. Louis working under Dr. Kathleen McDermott in her Memory & Cognition Lab. I received my B.Sc. in Psychology and Statistical Methods from Truman State University in 2015 and also spent summers doing research at the University of Michigan and University of Vermont.
+I am currently seeking and applying for industry roles in data science and data analytics.
+
+I recently completed my role as a Postdoctoral Research Associate in Dr. Henry Roediger's memory lab at Washington University in St. Louis (07-31-2024). I received my A.M. (Master's degree; 2017) and Ph.D. (2021) in Psychological & Brain Sciences at Washington University in St. Louis working under Dr. Kathleen McDermott in her Memory & Cognition Lab. I received my B.Sc. in Psychology and Statistical Methods from Truman State University in 2015 and also spent summers doing research at the University of Michigan and University of Vermont.
 
 My main interests are in examining both collective memory and individual differences in long-term memory, in particular how memories are formed and how they change over time. I am also interested in the similarities (and differences) between individual and group memory and forgetting. Much of my doctoral work was focused on the relation between how quickly people learn information and how well they remember it over time, as well as how learning rate related to forgetting rate. I participated in the Cognitive, Computational, and Systems Neuroscience (CCSN) pathway and was a National Science Foundation GRFP recipient.
