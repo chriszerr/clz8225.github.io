@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoc in Psychological & Brain Sciences
+role: Seeking a career in Data Science 
 
 # Organizations/Affiliations
 organizations:
@@ -18,15 +18,16 @@ organizations:
   url: "https://wustl.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Christopher Zerr is currently a Postdoctoral Researcher in Psychological & Brain Sciences at Washington University in St. Louis.
+bio: Christopher Zerr is currently applying for data science roles in industry. He recently completed his Postdoctoral Research position in Psychological & Brain Sciences at Washington University in St. Louis.
 
 interests:
-- Learning and Memory
-- Collective Memory
-- Individual Differences
 - Statistics / Data Visualization
-- R
-- Cognitive Neuroscience / fMRI
+- R / Python / SQL
+- Machine Learning / AI
+- Storytelling with Data
+- Learning and Memory
+- Individual Differences
+
 
 education:
   courses:
