@@ -18,6 +18,15 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Postdoctoral Research Associate"
+  company = "Psychological & Brain Sciences"
+  company_url = "https://psych.wustl.edu/"
+  location = "Washington University in St. Louis"
+  date_start = "2021-09-01"
+  date_end = "2024-07-31"
+  description = "PIs: Henry L. Roediger, PhD, & James V. Wertsch, PhD"
+  
+[[experience]]
   title = "Doctoral Student"
   company = "Psychological & Brain Sciences"
   company_url = "https://psych.wustl.edu/"
