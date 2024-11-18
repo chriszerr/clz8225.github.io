@@ -88,26 +88,26 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "c.l.zerr@wustl.edu"
-phone = "314 935 8892"
+email = ""
+phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Room 349E, Psychology Building, One Brookings Drive", city = "St. Louis", region = "MO", postcode = "63130", country = "United States", country_code = "US"}
+address = {street = "2200 Mastercard Blvd", city = "O'Fallon", region = "MO", postcode = "63368", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "38.647133", longitude = "-90.308012"}
+coordinates = {latitude = "38.74671687760226", longitude = "-90.74612068131844"}
 
 # Directions for visitors to locate you.
-directions = "Take the main stairwell to the 2nd floor and go left to the end of the hall."
+#directions = "Take the main stairwell to the 2nd floor and go left to the end of the hall."
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["Mon-Fri by appointment"]
+#office_hours = ["Mon-Fri by appointment"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = "https://calendly.com/czerr"
+#appointment_url = "https://calendly.com/czerr"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
