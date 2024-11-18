@@ -10,16 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: Data Scientist II at Mastercard
+role: Data Scientist II
 
 # Organizations/Affiliations
 organizations:
-- name: Washington University in St. Louis
-  url: "https://wustl.edu/"
+- name: Mastercard
+  url: "https://www.mastercard.us/en-us.html"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am currently a Data Scientist at Mastercard using advanced analytics and machine learning for building predictive models, providing data-driven insights for merchants and acquirers, and detecting financial fraud and other anomalies. I received my PhD in Psychological & Brain Sciences from Washington University in St. Louis (WUSTL) in 2021 studying human learning and memory with a particular focus on individual differences. I then spent 3 years as a Postdoctoral Researcher at WUSTL studying collective memory with international collaborators before joining Mastercard in October 2024.
-
+bio: I am currently a Data Scientist at Mastercard using advanced analytics and machine learning for building predictive models, providing data-driven insights for merchants and acquirers, and detecting financial fraud and other anomalies. I received my PhD in Psychological & Brain Sciences from Washington University in St. Louis (WUSTL) in 2021, followed by working as a Postdoctoral Research Associate for 3 years at WUSTL.
 interests:
 - Statistics / Data Visualization
 - R / Python / SQL
@@ -49,6 +48,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:christopher.lee.zerr@gmail.com"  # For a direct email link, use "mailto:test@example.org".
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/christopherzerr/
+- icon: github
+  icon_pack: fab
+  link: https://github.com/chriszerr
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/Zerr_Chris
@@ -58,12 +63,6 @@ social:
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Christopher_Zerr
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/christopherzerr/
-- icon: github
-  icon_pack: fab
-  link: https://github.com/chriszerr
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0001-9196-5075
@@ -88,6 +87,6 @@ user_groups:
 ---
 I am currently a Data Scientist II at Mastercard as part of the the Model Services team within Mastercard's Merchant and Acquirer Solutions. I develop and deploy predict models using various statistical and machine learning techniques to address business challenges. I collaborate with data engineers, product managers, and stakeholders to understand business requirements and translate them into data-driven solutions. I work at Mastercard's St. Louis Tech Hub in O'Fallon, Missouri.
 
-I recently completed my role as a Postdoctoral Research Associate in Dr. Henry Roediger's memory lab at Washington University in St. Louis (07-31-2024). I received my A.M. (Master's degree; 2017) and Ph.D. (2021) in Psychological & Brain Sciences at Washington University in St. Louis working under Dr. Kathleen McDermott in her Memory & Cognition Lab. I received my B.Sc. in Psychology and Statistical Methods from Truman State University in 2015 and also spent summers doing research at the University of Michigan and University of Vermont.
+I worked as a Postdoctoral Research Associate for 3 years with Dr. Henry Roediger and Dr. Jim Wertsch at Washington University in St. Louis (2021 - 2024). I received my A.M. (Master's degree; 2017) and Ph.D. (2021) in Psychological & Brain Sciences at Washington University in St. Louis working under Dr. Kathleen McDermott in her Memory & Cognition Lab. I received my B.Sc. in Psychology and Statistical Methods from Truman State University in 2015 and also spent summers doing research at the University of Michigan and University of Vermont.
 
 My main interests are in examining both collective memory and individual differences in long-term memory, in particular how memories are formed and how they change over time. I am also interested in the similarities (and differences) between individual and group memory and forgetting. Much of my doctoral work was focused on the relation between how quickly people learn information and how well they remember it over time, as well as how learning rate related to forgetting rate. I participated in the Cognitive, Computational, and Systems Neuroscience (CCSN) pathway and was a National Science Foundation GRFP recipient.
