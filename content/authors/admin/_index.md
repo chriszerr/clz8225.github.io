@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Seeking a career in Data Science 
+role: Data Scientist II at Mastercard
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: "https://wustl.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Christopher Zerr is currently applying for data science roles in industry. He recently completed his Postdoctoral Research position in Psychological & Brain Sciences at Washington University in St. Louis.
+bio: I am currently a Data Scientist at Mastercard using advanced analytics and machine learning for building predictive models, providing data-driven insights for merchants and acquirers, and detecting financial fraud and other anomalies. I received my PhD in Psychological & Brain Sciences from Washington University in St. Louis (WUSTL) in 2021 studying human learning and memory with a particular focus on individual differences. I then spent 3 years as a Postdoctoral Researcher at WUSTL studying collective memory with international collaborators before joining Mastercard in October 2024.
 
 interests:
 - Statistics / Data Visualization
@@ -48,7 +48,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:c.l.zerr@wustl.edu"  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:christopher.lee.zerr@gmail.com"  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/Zerr_Chris
@@ -60,7 +60,7 @@ social:
   link: https://www.researchgate.net/profile/Christopher_Zerr
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/christopher-zerr-43b7051b5/ 
+  link: https://www.linkedin.com/in/christopherzerr/
 - icon: github
   icon_pack: fab
   link: https://github.com/chriszerr
@@ -86,8 +86,7 @@ user_groups:
 - Researchers
 - Visitors
 ---
-
-I am currently seeking and applying for industry roles in data science and data analytics.
+I am currently a Data Scientist II at Mastercard as part of the the Model Services team within Mastercard's Merchant and Acquirer Solutions. I develop and deploy predict models using various statistical and machine learning techniques to address business challenges. I collaborate with data engineers, product managers, and stakeholders to understand business requirements and translate them into data-driven solutions. I work at Mastercard's St. Louis Tech Hub in O'Fallon, Missouri.
 
 I recently completed my role as a Postdoctoral Research Associate in Dr. Henry Roediger's memory lab at Washington University in St. Louis (07-31-2024). I received my A.M. (Master's degree; 2017) and Ph.D. (2021) in Psychological & Brain Sciences at Washington University in St. Louis working under Dr. Kathleen McDermott in her Memory & Cognition Lab. I received my B.Sc. in Psychology and Statistical Methods from Truman State University in 2015 and also spent summers doing research at the University of Michigan and University of Vermont.
 
